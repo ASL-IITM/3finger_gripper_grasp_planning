@@ -5,9 +5,9 @@ Host machine
 - ROS version: Melodic
 - Create a Catkin workspace called catkin_ws under home
 
- [Documents](docs)
-
-- #### Note:  Currently we are using two seperate system to run moveit! and graspit! To be able to communicate properly, we need to have all the systems(UR5, moveit system, gripper, grasput system) to be on same network. Please refer to the Communication.md file for further information. 
+#### Note: 
+1. Below instructions are for installation of graspit!. Refer to a detailed [documentation of modules here](docs)
+2. Currently we are using two seperate system to run moveit! and graspit! To be able to communicate properly, we need to have all the systems(UR5, moveit system, gripper, grasput system) to be on same network. Please refer to the Communication.md file for further information. 
 ## GraspIt! Installation instructions [GraspIt! Official Repository](https://github.com/graspit-simulator/graspit): 
 ### Install the following dependencies
 ```
