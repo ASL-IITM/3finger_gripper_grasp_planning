@@ -72,8 +72,7 @@ Example entry:
 
 1. **Dataset Collection**:
    - RGBD images and grasp labels using **Blender & Graspit!**.
-   - Dataset stored externally:\
-     📌 [**Download Dataset**](https://drive.google.com/drive/folders/1Lcg-l77vlqi1BVYm8FlydDgVehD4JRyB?usp=drive_link)
+   - Dataset is inside [Dataset_2.zip file](Dataset_2.zip)
 2. **Neural Network for Grasp Prediction**:
    - Uses a **Vanilla CNN model** for grasp pose estimation.
 3. **Simulation Setup**:
@@ -105,7 +104,6 @@ rosrun pick_and_place pick_place_gripper_pose
 
 ---
 
-## **Hardware Trials**
 ## **Hardware Trials**
 ![Hardware Setup](setup_videos/hardware_setup_2.png "Hardware setup")
 
